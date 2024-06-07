@@ -1,0 +1,7 @@
+cd ResumeMatcher-ATS
+pip install -r requirements.txt
+
+streamlit run app.py
+
+APIKEY:-"YOUR API KEY HERE"
+
